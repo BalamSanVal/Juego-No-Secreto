@@ -1,5 +1,5 @@
 // ctrl+f para buscar
-let numeroSecreto = generarNumeroSecreto();
+let numeroSecreto = 0;
 let intentos = 1;
 let listaNumerosSorteados = [];
 let numeroMaximo = 10;
